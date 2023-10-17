@@ -16,7 +16,7 @@ export default function Proplay({count,aTem,bTem}){
             {
             count === 6 ?
             ( <>
-                <p>{
+                <p style={{color:"rgba(255, 38, 0, 0.487)"}}>{
                     Aplus>Bplus
                     ?
                     (`A팀이 ${Aplus}점으로 승리하였습니다.`)
@@ -26,7 +26,7 @@ export default function Proplay({count,aTem,bTem}){
             </>)
             :
             (<>
-                <p>{
+                <p style={{color:'black'}}>{
                     count === 0?
                     (`게임은 5번만 실행됩니다.`)
                     :

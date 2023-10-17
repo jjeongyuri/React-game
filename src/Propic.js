@@ -10,16 +10,16 @@ import A07 from './images/A_7.png';
 import A08 from './images/A_8.png';
 import A09 from './images/A_9.png';
 // B
-import B00 from './images/B_zero.png';
-import B01 from './images/B_one.png';
-import B02 from './images/B_two.png';
-import B03 from './images/B_three.png';
-import B04 from './images/B_four.png';
-import B05 from './images/B_five.png';
-import B06 from './images/B_six.png';
-import B07 from './images/B_seven.png';
-import B08 from './images/B_eight.png';
-import B09 from './images/B_nine.png';
+import B00 from './images/B_0.png';
+import B01 from './images/B_1.png';
+import B02 from './images/B_2.png';
+import B03 from './images/B_3.png';
+import B04 from './images/B_4.png';
+import B05 from './images/B_5.png';
+import B06 from './images/B_6.png';
+import B07 from './images/B_7.png';
+import B08 from './images/B_8.png';
+import B09 from './images/B_9.png';
 
 const proNum = {
     a:[A00,A01,A02,A03,A04,A05,A06,A07,A08,A09],
